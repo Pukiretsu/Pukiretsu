@@ -37,6 +37,7 @@ I am a Systems-focused Engineer transitioning from Agricultural Engineering into
 ---
 
 ### 📈 Certifications (In Progress)
+* **Betek** Cloud Computing habilities
 * **AWS** Certified Solutions Architect – Associate
 * **HashiCorp** Certified: Terraform Associate
 * **Linux Foundation:** CKA / CKAD
